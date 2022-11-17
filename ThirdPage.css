@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(197, 168, 172);
+}
+
+h2 {
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+
+#medusa {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: auto;
+        height: 350px;
+        border-radius: 5px;
+}
+
+.pageLinks {
+    text-align: center;
+}
+
+.medusasList {
+    list-style-position: inside;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+#form {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+#submitBtn {
+    color: rgb(26, 12, 12);
+    font-weight: bold;
+    border: none;
+}
+
+#submitBtn:hover {
+    background-color: black;
+    color: white;
+}
